@@ -2,9 +2,9 @@
 
 Programa desenvolvido em Python que valida e analisa dados meteorológicos informados pelo usuário, referentes aos meses de janeiro a dezembro de um determinado ano.
 
-🔥 Temperatura média máxima anual
-🌡️ Quantidade de meses escaldantes
-☀️ Identificação do mês mais quente do ano
+🔥 Temperatura média máxima anual <br>
+🌡️ Quantidade de meses escaldantes <br>
+☀️ Identificação do mês mais quente do ano <br>
 ❄️ Identificação do mês menos quente do ano
 
 ## Como funciona
