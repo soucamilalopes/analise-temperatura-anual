@@ -21,6 +21,7 @@ Ambos os dados passam por validação, garantindo que apenas valores válidos se
 - Verificação de mês válido (1 a 12)
 - Verificação de faixa de temperatura (-60°C a 50°C)
 - Reentrada de dados em caso de valores inválidos
+- Controle de duplicidade de meses  
 
 ## Regras de negócio
 
@@ -30,4 +31,4 @@ Ambos os dados passam por validação, garantindo que apenas valores válidos se
 
 ## Sobre o projeto
 
-Primeiro projeto focado em análise de dados com Python, desenvolvido no contexto acadêmico em março de 2025, com foco na aplicação de lógica de programação.
+Primeiro projeto dados com Python, desenvolvido no contexto acadêmico em março de 2025, com foco na aplicação de lógica de programação.
