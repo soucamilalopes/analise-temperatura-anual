@@ -31,4 +31,4 @@ Ambos os dados passam por validação, garantindo que apenas valores válidos se
 
 ## Sobre o projeto
 
-Primeiro projeto dados com Python, desenvolvido no contexto acadêmico em março de 2025, com foco na aplicação de lógica de programação.
+Primeiro projeto de dados com Python, desenvolvido no contexto acadêmico em março de 2025, com foco na aplicação de lógica de programação.
